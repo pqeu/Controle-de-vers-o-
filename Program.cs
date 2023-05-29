@@ -1,4 +1,9 @@
+<<<<<<< Updated upstream
+﻿//Alteração realizada por <<Breno Pereira>>
+=======
 ﻿
+//Alteração realizada por <Breno>
+>>>>>>> Stashed changes
 // Leitor de inputs do teclado 
 public class JewelCollector {
 

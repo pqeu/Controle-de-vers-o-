@@ -3,7 +3,7 @@
 public class JewelCollector {
 
   public static void Main() {
-  
+  // caguei fi
       bool running = true;
   
       do {
